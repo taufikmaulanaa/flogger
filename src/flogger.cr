@@ -1,4 +1,6 @@
 #membuat Log dalam bentuk teks
+require "file_utils"
+
 module Flogger
   VERSION = "0.1.0"
 
