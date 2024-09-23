@@ -1,0 +1,9 @@
+name: flogger
+version: 0.1.0
+
+authors:
+  - Taufik <taufik@academiaworks.id>
+
+crystal: '>= 1.13.1'
+
+license: MIT
